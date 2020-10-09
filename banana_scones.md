@@ -22,7 +22,7 @@
 * 100 ml Coconut milk
 * 7,5 ml Apple vinegar
 
-## Frosting
+### Frosting
 * 30 g Sugar
 * 2 EL Coconut milk
 * 1 TLml maple sirup
